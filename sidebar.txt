@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ant:home|Door43 (ant)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ant|d43-ant repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ant/archive/master.zip|d43-ant.zip]]
+
+**Recent Changes**
+{{changes>ns = ant}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ant|Ethnologue data]]
+
